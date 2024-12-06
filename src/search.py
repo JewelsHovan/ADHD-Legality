@@ -9,13 +9,13 @@ class DrugSearcher:
         """
         Search for information about drug availability in a specific country
         """
-        query = f"{drug_name} availability legal status prescription {country}"
+        query = f"{drug_name} availability legal status prescription in {country}"
         
         try:
             search_result = self.client.search(
                 query=query,
                 search_depth="advanced",
-                max_results=5
+                max_results=8
             )
             
             return {

@@ -1,416 +1,191 @@
 drug,country,analysis
-Adderall,United States,"**Adderall in the United States**
-
-| Feature | Detail |
-|---|---|
-| **1. Legal Status** | Prescription-only, Schedule II controlled substance (high potential for abuse, acceptable medical use) |
-| **2. Availability** | Restricted.  While not currently experiencing shortages, availability can be impacted by factors like manufacturing issues and pharmacy stock. |
-| **3. Prescription Requirements** | Requires a prescription from a licensed medical professional.  Prescriptions cannot be refilled.  |
-| **4. Specific Regulations/Restrictions** |  Schedule II controlled substance;  prescriptions must comply with DEA regulations; online prescribing is currently allowed, but this may change in 2024;  availability can be affected by manufacturing issues and pharmacy stock levels. |
-"
-Adderall,United Kingdom,"Adderall in the UK:
-
-1. **Legal Status:** Prescription-only (Class B drug)
-
-
-2. **Availability:** Restricted.  Only obtainable with a prescription.
-
-
-3. **Prescription Requirements:**  Requires a prescription from a psychiatrist.  While a GP may continue a prescription from outside the UK, the initial prescription must come from a psychiatrist.
-
-
-4. **Specific Regulations/Restrictions:**
-    * Classified as a Class B drug, indicating stricter controls on its use and handling.
-    * Potential shortages of ADHD medications, impacting availability for patients.
-    * Increased online prescribing during the pandemic has contributed to the demand and potential shortages.
-    * Restrictions on what drugs pharmacists can supply and quota issues may contribute to shortages.
-"
-Adderall,Canada,"Based on the provided texts, a definitive answer regarding Adderall's status in Canada is difficult due to the information being fragmented and spanning different time periods.  However, we can extract the following:
-
-**1. Legal Status:**  Prescription-only.  The text mentions Adderall being a prescription stimulant.
-
-**2. Availability:**  Initially, the availability was described as ""adequate"" despite a US shortage.  Later, the prevalence of prescription use increased, suggesting availability through prescriptions was not severely restricted.  The information is not conclusive about ease of obtaining.
-
-**3. Prescription Requirements:**  The texts imply a need for a valid prescription, but details on the specifics are not provided.
-
-**4. Specific Regulations/Restrictions:**
-    * **Safety concerns and revised labeling:** The initial article highlights a serious safety concern (sudden deaths and strokes) tied to Adderall XR, leading to recommended revised labeling with warnings, particularly for children with heart conditions.  This suggests regulations regarding prescribing practices, patient selection, and product warnings were in place or were being developed.  Health Canada's role in monitoring the drug is implied.
-    * **Generic versions:**  The existence of generic Adderall suggests that it is subject to regulatory processes for approval by Health Canada.
-
-
-**Important Note:** The information is scattered, mostly representing different news articles and general drug information.  A comprehensive understanding of the current Canadian regulations regarding Adderall would require consulting official Health Canada documents and/or consulting with a medical professional.
-"
-Adderall,Australia,"Based on the provided text:
-
-**Adderall in Australia**
-
-1. **Legal Status:** Prescription-only (Schedule 8).  
-
-
-2. **Availability:** Restricted.  Access is dependent on a doctor's prescription, often requiring a specialist's involvement.  The text highlights shortages and legal actions impacting availability.
-
-3. **Prescription Requirements:**  A general practitioner (GP) typically needs explicit written support from a specialist (e.g., psychiatrist, paediatrician) to prescribe Adderall.  This is required to establish diagnosis and treatment stability.  There are exceptions for specific patients (e.g., in regional areas) with ongoing specialist oversight.  Certain specialists (paediatricians, psychiatrists) may have broader prescribing authority under specific circumstances.  In NSW, doctors authorised by the NSW Ministry of Health may prescribe.
-
-4. **Specific Regulations or Restrictions:**
-    * **Specialist involvement:**  A specialist's approval is often needed for GP prescriptions.
-    * **Treatment stability and diagnosis:**  Established diagnosis and ongoing treatment stability are often requirements.
-    * **Regional variations:**  Prescribing procedures might differ by region.
-    * **Short supply:**  A shortage of ADHD medications exists, which further restricts availability.
-    * **Illegal telehealth prescribing:**  Legal action against unauthorized telehealth companies prescribing unnecessary medication is impacting supply.
-
-
-**Important Note:** The text focuses on the *process* of prescribing, not on specific regulations.  Therefore, precise details of specific regulations and their implementation would require referencing the relevant Australian government or health authority documents.
-"
-Adderall,Japan,"Adderall in Japan:
-
-**1. Legal Status:** Prescription-only/illegal (depending on specific formulation/components)
-
-**2. Availability:** Restricted
-
-**3. Prescription Requirements:**
-
-* **Potentially:**  Requires an import certificate (for personal use) if not completely banned.
-* **Post-Arrival:** A Japanese practitioner may need to be identified to prescribe the medication after arrival if staying a while.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Import Restrictions:**  Adderall and other amphetamines and methamphetamines are treated as controlled substances, potentially requiring an import certificate for personal use.
-* **Illegal Possession:**  Possession of medications containing amphetamine or methamphetamine is illegal.
-* **Strict Controls:**  Medications for ADHD (which Adderall is used to treat) are strictly controlled and may be completely banned, requiring specific import permissions.
-* **Personal Use Only:**  Any prescription medication must be for the individual's personal use.
-* **Oral/External Use Only:**  Injections are not permitted.
-* **Potential for Detention:**  Bringing Adderall into Japan without the proper documentation can result in detention.
-
-
-**Important Note:**  The information provided highlights the complexities of bringing prescription medication into Japan.  Consulting the Japanese Narcotics Control Department and/or a relevant legal professional in Japan is crucial to ensure compliance with specific regulations.  The import status may vary depending on the specific formulation of Adderall.
-"
-Ritalin,United States,"**Ritalin (Methylphenidate) in the United States**
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted. While available, there are reported shortages and disruptions in supply, making it less easily accessible than usual.
-
-**3. Prescription Requirements:**  Requires a valid prescription from a licensed medical professional.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Diversion:**  Ritalin is frequently diverted from legitimate sources, leading to abuse and illegal use.
-* **Shortages:** Ongoing shortages of Ritalin and other stimulant medications are impacting access.
-* **Increased Overdose Risk:** The CDC has issued advisories regarding potential increased risks for injury and overdose due to disruption in access to prescription stimulants.
-* **DEA Reports:**  The DEA has released reports assessing trends in prescription stimulant use, including links to opioid overdoses.
-
-
-**Important Note:** The provided text highlights the *current* situation concerning Ritalin availability, but doesn't detail specific regulations, except for the general requirement of a prescription.  Further research would be needed for a complete picture of all regulations.
-"
-Ritalin,United Kingdom,"Based on the provided text:
-
-**1. Legal Status:** Prescription-only (controlled drug)
-
-**2. Availability:**  Restricted.  While available, there are supply issues mentioned, with some formulations in short supply.
-
-**3. Prescription Requirements:**  Requires a prescription.  Patient identity verification is needed when collecting the prescription, and it must be collected within 28 days.
-
-**4. Specific Regulations/Restrictions:**
-    * **Controlled Drug:**  Implies special handling and record-keeping procedures.
-    * **Prescription Collection Time Limit:**  28 days.
-    * **Supply Shortages:**  The text highlights ongoing supply issues with certain formulations of methylphenidate.
-    * **Patient Identity Verification:** Required for prescription collection.
-
-
-**Important Note:** The text focuses on supply issues and safety concerns rather than providing comprehensive legal regulations.  For definitive information on specific regulations, a direct consultation with the UK's Department of Health and Social Care or equivalent regulatory body would be necessary.
-"
-Ritalin,Canada,"Based on the provided text, the following information can be extracted about Ritalin in Canada:
-
-**Ritalin in Canada**
-
-1. **Legal Status:** Prescription-only
-
-
-2. **Availability:**  Restricted.  While the text states that the Drug Product Database (DPD) is available to find authorized drugs, it does not provide information on the ease or difficulty of obtaining Ritalin.  The information suggests it is available, but availability is contingent on prescription.
-
-
-3. **Prescription Requirements:**  A prescription from a licensed healthcare professional is required for obtaining Ritalin.
-
-
-4. **Specific Regulations/Restrictions:** The text mentions Health Canada requesting safety data updates from manufacturers of ADHD stimulants, which implies ongoing regulatory oversight.  The prevalence statistics indicate potential for misuse and monitoring.  The need for generic manufacturers to update product monographs suggests ongoing regulatory requirements for drug consistency and information.
-"
-Ritalin,Australia,"Based on the provided information:
-
-**1. Legal Status:**
-
-* **Prescription-only:** Ritalin (methylphenidate) is a prescription-only medication in Australia.  The text explicitly states it is a Schedule 8 poison, requiring a prescription.
-
-**2. Availability:**
-
-* **Restricted:**  While available through pharmacies, obtaining it requires a valid prescription.  It's not readily available over-the-counter. Online purchases require a valid Australian prescription.
-
-**3. Prescription Requirements:**
-
-* **Prescription from a Qualified Doctor:**  A prescription from an authorized medical professional (likely a psychiatrist or paediatrician, though other specialists may also be authorized) is required.
-* **Potential for PBS Subsidy:**  The text mentions the Pharmaceutical Benefits Scheme (PBS) which could mean patients meet specific criteria to receive a subsidised medication.  However, this requires separate authorization from Services Australia.
-* **Specific Circumstances for Certain Prescriptions:**  The text notes that certain specialists (paediatricians and psychiatrists) may prescribe under specific conditions without needing a permit in some circumstances, but this appears to be related to the diagnosis of ADHD.
-
-**4. Specific Regulations or Restrictions:**
-
-* **Drug Misuse and Trafficking Act:**  Illegal possession of Ritalin carries penalties in NSW, including imprisonment and fines.
-* **Poisons and Therapeutic Goods Act 1966:**  This Act governs the approval process for prescribed medications.
-* **Pharmaceutical Benefits Scheme (PBS) Listing:**  Listing on the PBS is important for subsidized access. The information suggests a recent listing status, but further details are not available.
-* **Online Purchase Requirements:**  Online purchases require a valid Australian prescription sent via mail to the pharmacy or online provider.
-
-
-**Important Note:** The provided context fragments present various aspects of Ritalin regulation.  A comprehensive understanding of the specific regulations and restrictions would require consulting official Australian government health and drug control agency websites.
-"
-Ritalin,Japan,"**Ritalin in Japan**
-
-**1. Legal Status:** Prescription-only (implied, as it's mentioned in the context of needing a prescription from a Japanese doctor if traveling there)
-
-**2. Availability:** Restricted.  While the import of general medication is allowed, quantity restrictions apply.  Ritalin's availability is further limited by the lack of doctors accepting new patients in the context provided.
-
-**3. Prescription Requirements:**  A prescription from a Japanese physician is necessary.  Import of the medication, if coming from abroad, requires specific permission from the Japanese government (Regional Bureaus of Health and Welfare) in advance of travel.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Import Restrictions:**  Ritalin, as a psychotropic medication, is subject to import controls under the Narcotics and Psychotropic Control Law.  This means you need an import certificate.
-* **Quantity Limits:**  Import of prescription medication is allowed, but limited to a one-month supply.
-* **Doctor Availability:**  Current network doctors for a particular service (ADHD treatment) are not accepting new patients.  This effectively restricts access to treatment.
-* **General Medication Restrictions:**  Even for non-prescription medications, the import is limited to a two-month supply.
-* **Pre-approval Required:**  Import permission is required *before* bringing the medication into Japan.
-
-
-**Important Note:**  The information provided is based on the context and lacks specific details about Ritalin.  Consulting with the Japanese Ministry of Health, Labour and Welfare or a legal professional in Japan is crucial for definitive and up-to-date information.
-"
-Concerta,United States,"Based on the provided text:
-
-**Concerta (in the US)**
-
-1. **Legal Status:** Prescription-only
-
-
-2. **Availability:** Restricted.  While the text states Johnson & Johnson's branded Concerta remains *available* with limits, this implies a shortage, not easy availability.  Some generics are also in short supply.
-
-
-3. **Prescription Requirements:**  It is implied that a valid prescription is necessary, though the text does not explicitly detail specific requirements.
-
-
-4. **Specific Regulations/Restrictions:**  The text highlights a nationwide shortage of Concerta and other ADHD medications,  implicating issues with production limits, and the potential for illicit telehealth practices exacerbating the problem. The DEA's assessment of sufficient proposed quantities (APQs) for amphetamine, lisdexamfetamine, and methylphenidate (which Concerta's active ingredient is part of) aims to address this, but the shortage continues.  The text also indicates a larger issue with ADHD medication availability in general.
-"
-Concerta,United Kingdom,"Concerta (UK) Information Summary
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted (currently experiencing supply shortages)
-
-**3. Prescription Requirements:**  Prescribed by a qualified medical professional (GP).  The text explicitly mentions ADHD prescribers.  Specific dose adjustments and substitutions may be required due to shortages.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Supply Shortages:**  Concerta is experiencing a national shortage.  Prescribers are advised to monitor patient supplies and consider alternative medications or dose adjustments if shortages persist.
-* **Dose Adjustments:**  If a specific Concerta strength is unavailable, prescribers should consider splitting the dose of a different Concerta strength (e.g., 54mg to two 27mg doses).
-* **Medication Switching:**  If the *entire* brand is unavailable, the prescriber should switch to alternative medications.
-* **Communication:**  Prescribers are advised to inform their usual ADHD prescriber if a patient has less than 10 days' worth of medication remaining.
-
-**Important Note:** The information provided indicates a *current* situation and the supply issues are expected to persist.  The situation is dynamic, so seeking the most up to date information from the appropriate medical or pharmaceutical sources is crucial.
-"
-Concerta,Canada,"Based on the provided text, a definitive answer for Concerta's status in Canada is not possible.  The information is incomplete and focused on generic versions.
-
-**Concerta (brand name methylphenidate)**
-
-| Detail          | Information from Text                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Legal Status** | Prescription-only.   (Implied by the reference to Health Canada's authorization process and the need for a prescription)                                                                                                                                                                                                                                                                                                                                                                   |
-| **Availability** | Potentially restricted. (Generic versions are available, but the reference to Health Canada not having data and the need to check the Drug Product Database suggests a need for verification. There is no information indicating Concerta is not available at all.)                                                                                                                                                                                                                                                                      |
-| **Prescription Requirements** | Required. (Implied by the reference to Health Canada's authorization process and the need for a prescription.)                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Specific Regulations/Restrictions** |  * No specific age restrictions explicitly mentioned for Concerta, but Health Canada hasn't authorized indications for children under 6 and geriatric use.  * Generic manufacturers must update their product monographs to align with the Canadian Reference Product (Concerta). *  Anecdotal reports suggest potential behavioral changes when switching from Concerta to generic equivalents (Novo-Methylphenidate ER-C). The text highlights the need to consult the Drug Product Database for specific details.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
-
-**Important Note:**  The provided text emphasizes the need to consult the Drug Product Database for precise and up-to-date information on Concerta's availability and regulations in Canada.  This summary is based on limited information and may not reflect the complete regulatory picture.
-"
-Concerta,Australia,"Based on the provided text, Concerta in Australia:
-
-**1. Legal Status:** Prescription-only (Schedule 8 stimulant).
-
-**2. Availability:**  Currently experiencing a shortage.  The text states ""Shortage of methylphenidate hydrochloride modified-release tablets"" and links to more information.  This indicates restricted availability.
-
-
-**3. Prescription Requirements:**  Requires a prescription, but importantly, the text highlights specific regulations regarding prescribing:
-
-* **Specialist support:** A GP typically needs explicit written support from a relevant specialist (e.g., psychiatrist, paediatrician) for prescribing Schedule 8 stimulants, unless for individual patients with special needs (including regional areas) under specialist oversight.
-
-
-**4. Specific Regulations/Restrictions:**
-
-* **Specialist oversight:**  A specialist must be involved in the diagnosis and treatment of ADHD, and maintain oversight for patients prescribed Concerta.
-* **Shortage:**  A current and anticipated shortage exists, affecting access to the medication.  The text emphasizes the need to consult the TGA Medicine shortage alerts for the most up-to-date information.
-
-
-**Important Note:** The provided text focuses on a shortage, not the standard prescribing and availability procedures for Concerta in general.
-"
-Concerta,Japan,"Based on the provided text, unfortunately, a complete picture of Concerta's status in Japan is not available.  The text mentions Concerta's *generic* form, but doesn't specify Concerta (methylphenidate OROS) regulation.  The information is fragmented and doesn't provide explicit details about Concerta itself.
-
-**Limited Information Summary:**
-
-1. **Legal Status:**  The provided text mentions a ""controlled substances list"" and restrictions on bringing medications into Japan.  This implies Concerta (if on the list) would likely be prescription-only and potentially restricted.
-
-2. **Availability:**  The text doesn't specify Concerta's availability. The fact that the text mentions OROS methylphenidate (a similar ADHD medication) being prescribed suggests it *might* be available, but further research is needed.
-
-3. **Prescription Requirements:**  The text implies prescription requirements for medications on the controlled substances list, but doesn't explicitly state Concerta's status in this regard.
-
-4. **Specific Regulations/Restrictions:** The text highlights restrictions on bringing *any* medication into Japan, particularly those on the controlled substances list, beyond a 30-day supply.  This suggests potential restrictions for individuals needing more than a 30-day supply of Concerta (or any medication on the list).
-
-**Conclusion:**
-
-The provided information is insufficient to definitively determine Concerta's legal status, availability, or prescription requirements in Japan.  Further research is needed to determine Concerta's presence on Japan's controlled substances list.
-"
-Vyvanse,United States,"**Vyvanse (Lisdexamfetamine) in the United States**
-
-| Feature          | Detail                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Legal Status** | Prescription-only, Schedule II controlled substance (DEA).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **2. Availability** | Restricted. While generic Vyvanse became available in 2023, a drug shortage as of April 2024 is impacting availability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **3. Prescription Requirements** |  Additional prescribing safeguards are in place due to the drug's Schedule II classification.  Specific requirements are not detailed in the provided text.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **4. Specific Regulations/Restrictions** |  Manufacturers of generic Vyvanse had to demonstrate bioequivalence (working in the same way as the brand name).  The current drug shortage is a significant restriction on availability, likely stemming from issues in the supply chain or manufacturing for multiple ADHD medications.                                                                                                                                                                                                                                                                                                                                                  |
-"
-Vyvanse,United Kingdom,"**Vyvanse in the United Kingdom**
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted.  Not readily available in pharmacies without a prescription.  Importing may require NHS permission and convincing a doctor of the need.
-
-**3. Prescription Requirements:**  A prescription is required from a licensed medical professional.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Class B controlled drug:**  Vyvanse (lisdexamphetamine) is a Schedule 2 controlled substance, which means there are additional regulations and potential restrictions beyond simply having a prescription.
-* **NHS approval (likely):**  The text suggests importation might require NHS approval, potentially for medicinal use not readily available through standard channels.
-* **Documentation & Justification:**  The process of obtaining the drug may require extensive justifying documentation to authorities (potentially customs).
-* **Limited supply:**  The need for a prescription in the UK and potential import restrictions might lead to difficulties in obtaining a longer-term supply.
-"
-Vyvanse,Canada,"**Vyvanse in Canada**
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted
-
-**3. Prescription Requirements:**  Access requires a valid prescription from a healthcare professional.  The text explicitly states that a Takeda ID is needed for healthcare professionals to access information, suggesting a controlled distribution system.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Regulatory Approvals:**  Access is subject to regulatory approvals by Health Canada.
-* **Cost and Insurance Coverage:**  Accessibility can be affected by cost and insurance coverage.
-* **Generic Availability:** While a generic version is available, this doesn't automatically make it easily available.  Cost considerations and insurance coverage will still impact accessibility.
-* **InnoviCares Program:** A program is available to help with the cost difference between brand-name and generic Vyvanse.  This is a form of assistance, not a guarantee of affordability.
-* **Healthcare Professional Access:** Access to specific information and tools (like the DIN lookup) is restricted to healthcare professionals with a valid Takeda ID.
-"
-Vyvanse,Australia,"Vyvanse (Lisdexamfetamine Dimesilate) in Australia:
-
-| Feature | Detail |
-|---|---|
-| **1. Legal Status** | Prescription-only |
-| **2. Availability** | Restricted (shortages of various strengths reported) |
-| **3. Prescription Requirements** |  Prescription from a qualified medical practitioner is required.   |
-| **4. Specific Regulations/Restrictions** |  * **Shortages:**  Multiple strengths (20mg, 40mg, 60mg) are currently experiencing shortages due to high demand and/or manufacturing issues.  Specific dates for anticipated return to normal supply are listed in the Medicine Shortage Reports Database.   * **Limited Availability:**  While some strengths (30mg, 50mg) have returned to normal levels, others remain in limited supply. * **Ongoing Monitoring:**  The Therapeutic Goods Administration (TGA) is actively monitoring the situation and reporting on the availability of different strengths.  |
-"
-Vyvanse,Japan,"Based on the provided information:
-
-**1. Legal Status:** Prescription-only.  Bringing Vyvanse into Japan requires a valid prescription from a licensed Japanese medical professional.
-
-**2. Availability:** Restricted.  While Vyvanse *is* available in Japan, it requires specific import procedures and documentation.  It is not readily available for purchase without a Japanese prescription.
-
-**3. Prescription Requirements:**
-
-* **Prior Japanese Prescription:**  A critical point is that a prior prescription from a Japanese doctor is usually required to obtain a prescription for Vyvanse in Japan.  This is particularly true for those under the age of 18.
-* **Documentation:**  The prescription needs to be accompanied by documentation, including an application, and submitted to the relevant Japanese authorities (tokyoncd@mhlw.go.jp).
-* **Customs Declaration:**  The prescription and import application need to be correctly declared to Japanese customs.
-
-**4. Specific Regulations or Restrictions:**
-
-* **Import Permit:**  A permit is required to import Vyvanse, even in small quantities.
-* **Classification Differences:**  Vyvanse (lisdexamfetamine) is classified differently than methylphenidate (Concerta) in Japan.  This likely impacts the import procedure and documentation needed.
-* **Generic vs. Brand Name:**  The regulations for generic medications may differ from those for brand-name Vyvanse.
-* **Holistic Health Emphasis:**  The emphasis on holistic health might influence a more cautious approach to foreign medications.
-
-
-**Important Note:** This information is based solely on the provided Reddit posts and is not a definitive legal guide.  Consult with legal and medical professionals in Japan for precise and updated guidance.
-"
-Strattera,United States,"**Strattera (Atomoxetine) in the US**
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted.  While available, it requires a prescription from a healthcare professional.  Generic versions may be available, but the original patent holder maintains exclusive rights until expiration.
-
-**3. Prescription Requirements:**  Requires an appointment with a primary care professional (PCP) or other authorized prescriber.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Prescription Required:**  This is explicitly stated.
-* **Patent Expiration:**  The patent on Strattera, or its formulations, may expire, potentially leading to the availability of generic versions.  This is not a current restriction, but a potential future factor.
-* **FDA Approval:**  The text notes FDA approval for various age groups and uses, indicating regulatory oversight.
-* **Potential for Generic Alternatives:** The information implies that generic versions may become available.
-"
-Strattera,United Kingdom,"Based on the provided text:
-
-**Strattera (Atomoxetine) in the United Kingdom**
-
-1. **Legal Status:** Prescription-only (POM - ""Prescription Only Medicine"")
-
-
-2. **Availability:**  Restricted.  While the text mentions filled prescriptions, it doesn't explicitly state if it's readily available or if there are significant supply chain issues.
-
-
-3. **Prescription Requirements:**  The text implies a prescription is required, but doesn't detail specific requirements.
-
-
-4. **Specific Regulations/Restrictions:**  The text mentions dispensing fees and special containers, suggesting some regulatory oversight around the product's distribution, but specifics are not provided.
-"
-Strattera,Canada,"Based on the provided text:
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted (requires a prescription)
-
-**3. Prescription Requirements:**  The text mentions Strattera is approved by Health Canada for treating ADHD in adolescents and children age six and over.  Implied, but not explicitly stated, is that a physician's diagnosis and prescription are necessary.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Age restrictions:**  Children ages 6 and over.
-* **Co-pay assistance:**  There is a program (Lilly Patient Choice RxHelp) offering cost assistance for those taking Strattera. This is a *program*, not a regulatory requirement.
-* **Generic availability:** The text mentions generic versions being compared to the brand name, suggesting generic versions are available, but it does not provide details on the timing or ease of access.
-* **Patent information:** The text mentions patents, but this relates to the *intellectual property* of the drug, not regulatory restrictions on its use.
-
-
-**Important Note:** The provided text is fragmented and lacks specific details regarding the ease or difficulty of obtaining a prescription for Strattera in Canada.  Further research would be needed to fully understand the specifics of prescription requirements and availability in different Canadian provinces or regions.
-"
-Strattera,Australia,"Based on the provided information:
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:**  Potentially easily available (dependent on prescription and supply).  The text mentions shortages, so availability isn't guaranteed.
-
-**3. Prescription Requirements:**  Prescribed by a doctor. The text specifically notes that psychostimulants may require specific authorization in NSW.
-
-**4. Specific Regulations or Restrictions:**
-
-* **Substituted by Methylphenidate and Dexamphetamine:**  These are often considered first-line treatments for ADHD. Atomoxetine is a second-line option for those who can't tolerate psychostimulants.
-* **Pharmaceutical Benefits Scheme (PBS) Subsidy:** Atomoxetine is subsidized for those who can't take psychostimulants.
-* **Shortage Information:**  The text highlights potential medicine shortages, indicating that availability can be impacted.
-
-
-**Important Note:** The provided text is fragmented and doesn't offer a comprehensive overview of all regulations.  A full understanding of the availability and specific regulations for Strattera in Australia would require consulting official TGA or health department resources.
-"
-Strattera,Japan,"**Strattera (atomoxetine) in Japan**
-
-**1. Legal Status:** Prescription-only
-
-**2. Availability:** Restricted (currently under supply restrictions due to manufacturing issues)
-
-**3. Prescription Requirements:**  Requires a prescription from a licensed physician in Japan.  The use is strictly regulated, and patients must meet specific criteria and undergo a comprehensive evaluation.
-
-**4. Specific Regulations/Restrictions:**
-
-* **Supply Restrictions:**  Current manufacturing issues have led to supply limitations.
-* **Strict Regulatory Framework:**  Use is tightly controlled, requiring adherence to specific criteria and evaluation processes.
-* **Potential for Import Restrictions:**  Individuals bringing their own medication into Japan must confirm with the Regional Bureaus of Health and Welfare if their prescription is permitted.  The text implies a list of prohibited medications exists.
-
-
-**Important Note:** The information provided regarding the import of medication is incomplete.  Further research or consultation with relevant authorities is necessary to fully understand the import requirements for Strattera.
-"
+Adderall,Australia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'GP must have explicit written support from a relevant specialist; diagnosis and treatment stability must be established; for individuals with special needs, clinical oversight from a specialist is required.', 'regulations': 'Schedule 8 stimulant prescriptions require a permit unless specified conditions are met by paediatricians and psychiatrists.'}"
+Adderall,Austria,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': ""You need a proper Austrian prescription, including a special addictive drug's prescription due to its classification as a narcotic drug."", 'regulations': 'The prescription must contain specific elements as per EU directive, and importing drugs is generally prohibited, with exceptions for travelers.'}"
+Adderall,Belgium,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""A valid doctor's prescription is required to obtain Adderall from any pharmacy in Belgium."", 'regulations': 'Adderall is classified as a stimulant and is subject to specific regulations; it can only be obtained with a prescription.'}"
+Adderall,Canada,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'The use of Adderall is regulated due to its potential for misuse and dependence. It is classified as a controlled substance.'}"
+Adderall,Chile,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'Prescription from a licensed medical professional is required to obtain Adderall.', 'regulations': 'Controlled substance; regulations for prescribing and dispensing are strict.'}"
+Adderall,Colombia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare provider.', 'regulations': 'Controlled substances, prescribed online until 2024; subject to updates from INCB lists.'}"
+Adderall,Costa Rica,"{'legal_status': 'illegal', 'availability': 'restricted', 'prescription_requirements': 'requires a prescription from a doctor or licensed practitioner', 'regulations': 'Adderall is legally available only in the United States and Canada; it is not commercially available in Costa Rica.'}"
+Adderall,Czech Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Proof of diagnosis, prescription from a Czech psychiatrist, insurance', 'regulations': 'Possession is legal in small amounts; purchasing is legal; selling and mediation of sale are illegal. Special approval required from health ministry to carry controlled substances.'}"
+Adderall,Denmark,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'You need a prescription, which requires a local psychiatric evaluation.', 'regulations': 'You cannot fill a U.S. prescription in Denmark; you must bring documentation from your home doctor.'}"
+Adderall,Estonia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare provider, particularly for ADHD treatment', 'regulations': 'Increased scrutiny on telehealth prescriptions; legal actions against illegitimate telehealth companies; health advisory issued due to supply shortages and risks of misuse.'}"
+Adderall,Finland,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'must meet the requirements of Finnish legislation', 'regulations': 'Restrictions based on the Government Decree on importing medicinal products to Finland for personal use (1088/2002). Classification of the product in Finland determines import restrictions.'}"
+Adderall,France,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare professional is required.', 'regulations': 'Subject to strict regulations due to its stimulant properties and potential for abuse.'}"
+Adderall,Germany,"{'legal_status': 'illegal', 'availability': 'restricted', 'prescription_requirements': 'Prescription is required for drugs on Anlage III; trade and possession without license or prescription is illegal for drugs on Anlage I and II.', 'regulations': 'Regulated by the German Narcotic Drugs Act (BtMG) which categorizes drugs into Anlage I, II, and III with specific restrictions.'}"
+Adderall,Greece,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""A doctor's prescription is required to obtain ADHD medication in Greece."", 'regulations': 'Cross-border prescriptions are accepted, and Greece has started electronic cross-border prescriptions.'}"
+Adderall,Hungary,"{'legal_status': 'illegal', 'availability': 'restricted', 'prescription_requirements': 'Official certificate issued by the competent authority in the country of origin; prescription; note signed by doctor; form 12 or 13 depending on duration', 'regulations': 'Can only be brought into Hungary for 30 to a maximum of 90 days of treatment; quantity must not exceed that required for 30 days.'}"
+Adderall,Iceland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""An individual must be able to produce a physician's certificate, a prescription or other written declaration, together with instructions for use, which provide satisfactory proof that the medicinal products have been acquired by legitimate means and that they are necessary to the individual."", 'regulations': 'Controlled substances like Adderall will be allowed to be prescribed online into 2024. The Directorate of Health supervises prescriptions and promotes the prudent use of medicinal products in Iceland.'}"
+Adderall,Ireland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid medical prescription from a health professional, including necessary information, is required.', 'regulations': ""Carry medication in original packaging with a doctor's prescription; check regulations for traveling with medications.""}"
+Adderall,Israel,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""a copy of the valid medical prescription and a doctor's certificate endorsed by the Israeli district pharmacy"", 'regulations': 'Governed by the Dangerous Drug Ordinance 5733-1973, which includes new psychoactive substances in the list of controlled substances.'}"
+Adderall,Italy,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a doctor in any EU country is required; however, the pharmacist may refuse it under certain circumstances.', 'regulations': 'Travellers must hold evidence of lawful medical preparations; a prescription may be subject to verification by pharmacists.'}"
+Adderall,Japan,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'Requires advance permission and a Yakkan Shoumei for personal use', 'regulations': ""All medications containing stimulants are prohibited; importation is at one's own risk.""}"
+Adderall,Korea,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': ""Not prescribed in Korea; illegal to import without a doctor's prescription."", 'regulations': 'Non-prescribed amphetamine-based medications are banned; subject to regulations by the Korean Food and Drug Administration and the Korean Customs Service.'}"
+Adderall,Latvia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription issued by a doctor in accordance with normative acts', 'regulations': 'Healthcare professional takes responsibility for prescribing unauthorized medicinal products; a prescription or document from a healthcare institution is required for non-prescription medicines ordered from abroad.'}"
+Adderall,Lithuania,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Controlled substance regulations apply, with specific monitoring for prescriptions.'}"
+Adderall,Luxembourg,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'Not applicable as it is not available', 'regulations': 'Adderall is not sold in Luxembourg, and a prescription from another EU country may not be honored.'}"
+Adderall,Mexico,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare provider', 'regulations': 'Counterfeit versions are appearing; some pharmacies are selling counterfeit pills laced with illicit substances.'}"
+Adderall,Netherlands,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Need a Schengen Area certificate or medical certificate for travel; letter from doctor or copy of prescription required for international travel; documents must be in English.', 'regulations': 'Medicines with a narcotic effect are listed in the Opium Act; can only be brought into the Netherlands if they are for personal use and accompanied by necessary documentation.'}"
+Adderall,New Zealand,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Explicit written support from a relevant specialist medical practitioner; established diagnosis and treatment stability; clinical oversight by a specialist for certain patients.', 'regulations': 'Controlled drugs can be prescribed for a maximum of three-months supply via the New Zealand Electronic Prescription Service; not applicable to paper prescriptions.'}"
+Adderall,Norway,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""A doctor can apply for 'godkjenningsfritak' (approval exemption) to prescribe Adderall legally."", 'regulations': 'Adderall is not generally approved for clinical use in Norway, but can be prescribed under specific exemption.'}"
+Adderall,Poland,"{'legal_status': 'illegal', 'availability': 'restricted', 'prescription_requirements': ""Doctor's prescription required"", 'regulations': 'Strict regulations on import and use of amphetamines, including Adderall.'}"
+Adderall,Portugal,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries; a cross-border prescription can be requested.', 'regulations': 'Governments may introduce special provisions for international travelers to carry small quantities of preparations with psychotropic substances; the INCB assists with regulations regarding controlled substances.'}"
+Adderall,Slovak Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare provider', 'regulations': 'Legal ban on the re-export of medicines; specific regulations for controlled substances'}"
+Adderall,Slovenia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries', 'regulations': 'Regulated by the Medicinal Products Act and related implementing regulations; specific rules for traveling with medication'}"
+Adderall,Spain,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Requires a prescription from a licensed healthcare provider', 'regulations': 'Controlled substance; specific regulations apply for cross-border use in EU countries.'}"
+Adderall,Sweden,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Regulated by the Swedish Medical Products Agency; specific rules apply for traveling with medications.'}"
+Adderall,Switzerland,"{'legal_status': 'illegal', 'availability': 'restricted', 'prescription_requirements': 'Carry original prescription for legal proof and personal use.', 'regulations': 'Banned narcotics and stimulants; customs monitor importation and exportation.'}"
+Adderall,Turkey,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Strict regulations apply for importation and possession; travelers should consult local laws.'}"
+Adderall,United Kingdom,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a psychiatrist is required.', 'regulations': 'Class B drug in the UK; can only be legally obtained and handled with a prescription.'}"
+Adderall,United States,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required; cannot be refilled.', 'regulations': 'Schedule II controlled substance; telehealth prescriptions allowed until November 11, 2023.'}"
+Ritalin,Australia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Approval from the NSW Ministry of Health is required for prescribing; medical practitioners must obtain prior approval before prescribing psychostimulant medications like methylphenidate.', 'regulations': 'Classified as a drug of dependence/addiction under Australian regulations; illegal possession carries penalties including up to 2 years imprisonment and/or a fine of $2,200 in New South Wales.'}"
+Ritalin,Austria,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'The prescription must contain the elements specified in Commission Implementing Directive 2012/52/EU of 20 December 2012.', 'regulations': 'The Austrian Medicine Import Act generally prohibits the import of drugs and medicines into Austria, with certain exemptions for travelers.'}"
+Ritalin,Belgium,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a qualified healthcare professional is required.', 'regulations': 'Subject to safety reviews and regulations due to potential cardiovascular and cerebrovascular risks.'}"
+Ritalin,Canada,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'prescribed by licensed practitioners', 'regulations': 'classified as Schedule III drugs under the Controlled Drugs and Substances Act (CDSA)'}"
+Ritalin,Chile,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare professional is required.', 'regulations': 'Subject to anti-trafficking law No. 20.000 of 2005 and Decree No. 867/2007, restricting the use of narcotic and psychotropic substances.'}"
+Ritalin,Colombia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Methylphenidate is listed as a controlled substance under Colombian law, and its availability is subject to state regulations and control.'}"
+Ritalin,Costa Rica,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Original prescription bottles with the patient's name; a note from the doctor is recommended."", 'regulations': 'Controlled medication; travelers should carry a letter from the doctor if needed.'}"
+Ritalin,Czech Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Requires medical prescription; possible re-diagnosis if moving long-term', 'regulations': 'Subject to conditions for travelers under treatment with internationally controlled drugs, as per the Ministry of Health of the Czech Republic.'}"
+Ritalin,Denmark,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Documentation from home doctor and decision by a Danish doctor', 'regulations': 'Importation of medications is regulated; illegal import may result in fines or prosecution'}"
+Ritalin,Estonia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'permit from the Estonian Agency of Medicines or Schengen certificate from a pharmacy', 'regulations': 'used in approved indications for children aged six years or over and adolescents with ADHD as part of comprehensive treatment programmes'}"
+Ritalin,Finland,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Must meet Finnish legislation requirements', 'regulations': 'Restrictions based on the Government Decree on importing medicinal products to Finland for personal use (1088/2002) and classification of the product.'}"
+Ritalin,France,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'hospital-only prescription for specialists and/or specialized departments in neurology, psychiatry or pediatrics', 'regulations': 'Included in the list of narcotics, prescription limited to 28 days, must be included in a multimodal therapeutic program with periodic medical assessments.'}"
+Ritalin,Germany,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare professional; prior screening for blood pressure and heart rate recommended.', 'regulations': 'Subject to the Narcotics Act; strict regulations on importation and personal carrying; considered a controlled substance by German Customs.'}"
+Ritalin,Greece,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Screening for blood pressure or heart rate, and a valid prescription from a licensed healthcare provider is required.', 'regulations': 'Methylphenidate-containing medicines are recommended for use in children aged six years and over and adolescents with ADHD, as part of comprehensive treatment programmes. Specific product information must include screening for cardiovascular problems before treatment.'}"
+Ritalin,Hungary,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Methylphenidate is a controlled substance in Hungary and requires careful monitoring; patients must be screened for blood pressure and heart rate before treatment.'}"
+Ritalin,Iceland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed healthcare provider is required to obtain Ritalin.', 'regulations': 'Ritalin is regulated due to its potential for abuse and is classified as a controlled substance.'}"
+Ritalin,Ireland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Approval under the Long-Term Illness Scheme or prescribed for ADHD', 'regulations': 'Methylphenidate is regulated for use in children aged six years and over and adolescents with ADHD; travel with narcotics and psychotropic substances requires checking with relevant authorities.'}"
+Ritalin,Israel,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""valid medical prescription, doctor's certificate endorsed by the Israeli district pharmacy"", 'regulations': 'purchase of Ritalin without a prescription is allowed, but has faced criticism from the Ethics Committee of Medical Federation'}"
+Ritalin,Italy,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A medical prescription issued in a EU country must be recognised in all other EU countries, but may be refused by pharmacists for various reasons.', 'regulations': 'Special regulatory measure allows for continued access to treatment and reimbursement for adults initiated before the age of 18.'}"
+Ritalin,Japan,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'must obtain a prescription from a licensed Japanese practitioner', 'regulations': 'Import is controlled by the Narcotics and Psychotropic Control Law; quantity restrictions apply: Non-prescription drug - up to 2 months, Prescription drug - up to 1 month supply, Drug for external use - up to 24 pieces.'}"
+Ritalin,Korea,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Must go to a psychiatry clinic and obtain a prescription', 'regulations': 'Narcotics-containing medication is prohibited from import; other medications require a written application to MFDS before traveling.'}"
+Ritalin,Latvia,"{'legal_status': 'Prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Requires a prescription from a licensed healthcare provider', 'regulations': 'Patients must be screened for blood pressure or heart rate issues before treatment; product information must be consistent across EU.'}"
+Ritalin,Lithuania,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Patients must be screened for blood pressure or heart rate issues before treatment.', 'regulations': 'Methylphenidate-containing medicines are to be used as part of comprehensive treatment programmes for ADHD in children aged six years or over and adolescents.'}"
+Ritalin,Luxembourg,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare provider', 'regulations': 'Patients must be screened for blood pressure or heart rate issues before treatment.'}"
+Ritalin,Mexico,"{'legal_status': 'illegal', 'availability': 'easily available', 'prescription_requirements': 'prescription not necessary', 'regulations': 'controlled substances sold without prescription, presence of counterfeit drugs'}"
+Ritalin,Netherlands,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Certificate from a doctor or a medical prescription in English; Schengen Area certificate may be needed depending on travel destination.', 'regulations': 'Falls under the Opium Act; additional requirements for traveling with the medication.'}"
+Ritalin,New Zealand,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescriber must sign changes on a handwritten controlled drugs prescription form (H572) or cancel the original prescription and issue a new amended prescription through the New Zealand Electronic Prescription Service (NZePS).', 'regulations': 'Amendments to controlled drug prescriptions may only be made by the prescriber.'}"
+Ritalin,Norway,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Patients must be screened for blood pressure or heart rate issues before treatment.', 'regulations': 'Methylphenidate is authorized for treatment of ADHD in children aged six years and older, and adolescents as part of comprehensive treatment programmes.'}"
+Ritalin,Poland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries, but availability may vary by country', 'regulations': 'Patients must be screened for blood pressure or heart rate issues before treatment; comprehensive treatment programmes are recommended for children aged six years and over and adolescents with ADHD.'}"
+Ritalin,Portugal,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Compliance with EU regulations on methylphenidate; pre-treatment screening for blood pressure and heart rate is recommended.'}"
+Ritalin,Slovak Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed doctor is required, and the prescription can be used across EU countries.', 'regulations': 'Patients should be screened for blood pressure and heart rate before treatment; ongoing monitoring is also advised.'}"
+Ritalin,Slovenia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Diagnosis of ADHD and thorough evaluation including personal examination', 'regulations': 'Patients must be screened for blood pressure or heart rate problems before treatment; monitoring is required during treatment.'}"
+Ritalin,Spain,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a doctor in the autonomous community of origin.', 'regulations': 'Patients must be screened for blood pressure or heart rate before treatment; medication can only be obtained in the autonomous community that issued the health card.'}"
+Ritalin,Sweden,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Screening for blood pressure and heart rate before treatment; part of comprehensive treatment programmes for children with ADHD.', 'regulations': 'Regulated by the Health Data Register Act (1998:543) and the associated regulation (2005:363); managed by the Swedish eHealth Agency.'}"
+Ritalin,Switzerland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': ""Pharmaceuticals containing internationally controlled substances for medical use may be imported into Switzerland in quantities required for 30 days' treatment. All patients should be screened for blood pressure or heart rate issues before treatment.""}"
+Ritalin,Turkey,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'Moroccan prescription required', 'regulations': 'Drugs in Turkey are classed in six broad categories, and require differently-coded prescriptions.'}"
+Ritalin,United Kingdom,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed medical professional is required.', 'regulations': 'Methylphenidate is regulated under the Misuse of Drugs Act 1971 and can only be prescribed for specific medical conditions, such as ADHD.'}"
+Ritalin,United States,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Thorough evaluation of the patient, including personal examination and ADHD symptom rating scales.', 'regulations': 'Updates to the Boxed Warning and prescribing information to address misuse, abuse, and addiction concerns.'}"
+Concerta,Australia,"{'legal_status': 'prescription-only', 'availability': 'available', 'prescription_requirements': 'A GP will not usually be granted an authority to prescribe schedule 8 stimulants without the explicit written support of a relevant specialist medical practitioner. Diagnosis and treatment stability must be established, and/or for individual patients with special needs where a specialist retains clinical oversight of the patient’s care.', 'regulations': 'The Secretary of the Department of Health has specified conditions under which a Schedule 8 poison may be prescribed, administered, or supplied without first obtaining a permit.'}"
+Concerta,Austria,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Must comply with EU regulations and national laws regarding prescriptions and medicinal products.'}"
+Concerta,Belgium,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries.', 'regulations': 'Medicines may only be marketed in Belgium if they are authorised or registered, must comply with FAMHP regulations, and online pharmacies must be registered with FAMHP.'}"
+Concerta,Canada,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare provider is required.', 'regulations': 'Classified as Schedule III drugs under the Controlled Drugs and Substances Act (CDSA).'}"
+Concerta,Chile,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Concerta is subject to regulations regarding its prescription and distribution due to its classification as a controlled substance.'}"
+Concerta,Colombia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare provider is required.', 'regulations': 'Controlled substance due to its potential for abuse; subject to federal and state regulations.'}"
+Concerta,Costa Rica,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a doctor or a licensed health professional is required.', 'regulations': 'Reasonable quantities in original prescription bottles are acceptable; having a note from the doctor is advisable.'}"
+Concerta,Czech Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a licensed healthcare provider is required.', 'regulations': 'Limited availability status designated by the State Institute for Drug Control (SÚKL).'}"
+Concerta,Denmark,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Documentation from your home doctor for your condition and information about the specific medication', 'regulations': ""Can import for personal use; limited to three months' supply; specific restrictions on euphoriant substances.""}"
+Concerta,Estonia,"{'legal_status': 'Prescription for narcotic drugs', 'availability': 'not available', 'prescription_requirements': 'Prescription required', 'regulations': 'Subject to narcotic regulations'}"
+Concerta,Finland,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Electronic prescription from a healthcare provider', 'regulations': 'Can be purchased with a foreign prescription in Finland; e-prescriptions can be used cross-border in some EU countries.'}"
+Concerta,France,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription limited to 28 days; restricted initial annual hospital prescription reserved for specialists and/or specialized departments in neurology, psychiatry, or pediatrics.', 'regulations': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries; however, the medicine might not be available or may have another name in another country.'}"
+Concerta,Germany,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Diagnosis of ADHD and proper medical evaluation required', 'regulations': 'Subject to German Medicines Law and customs regulations regarding controlled substances.'}"
+Concerta,Greece,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries.', 'regulations': 'Methylphenidate-containing medicines are regulated due to their use in ADHD treatment and require careful prescription management.'}"
+Concerta,Hungary,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Official certificate from the competent authority in the country of origin; prescription required', 'regulations': 'Can carry up to a 30-day supply with proper documentation. For more than 30 days, additional requirements apply.'}"
+Concerta,Iceland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Membership in the Icelandic social insurance system', 'regulations': 'Laws on building a prescription database were passed in parliament in 2003; the Directorate of Health conducts medicine prescription surveillance.'}"
+Concerta,Ireland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Product subject to medical prescription which may not be renewed', 'regulations': 'Pharmacy Only'}"
+Concerta,Israel,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed healthcare provider is required.', 'regulations': 'Subject to regulations regarding the handling and dispensing of controlled substances.'}"
+Concerta,Italy,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare provider, particularly for controlled substances like methylphenidate.', 'regulations': 'Subject to special medical prescription regulations; not recognized across EU for certain prescriptions; specific requirements for international travelers carrying controlled substances.'}"
+Concerta,Japan,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Licensed doctor to prescribe; need import certificate for personal use.', 'regulations': 'Controlled by the Narcotics and Psychotropic Control Law; import quantity restrictions apply.'}"
+Concerta,Korea,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Written application to the Ministry of Food and Drug Safety (MFDS) before traveling', 'regulations': 'Methylphenidate products are legal but can be subject to customs checks; visitors must apply to MFDS for prescription medications.'}"
+Concerta,Latvia,"{'legal_status': 'Rx Prescription (Pr.I)', 'availability': 'not available', 'prescription_requirements': 'prescription issued and formatted by a doctor in accordance with the requirements of normative acts', 'regulations': 'Medicinal Product Register of Latvia contains information only about those substances and methods that are prohibited for use in sport and are included in World Anti-doping.'}"
+Concerta,Lithuania,"{'legal_status': 'Prescription-only', 'availability': 'not available', 'prescription_requirements': 'Prescription required; product subject to medical prescription which may not be renewed', 'regulations': 'New recommendations on prescribing and monitoring to maximize safe use; specific regulations for methylphenidate-containing medicines.'}"
+Concerta,Luxembourg,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'Prescription required due to narcotics regulations', 'regulations': 'Methylphenidate is regulated under narcotics regulations and requires pre-treatment screening and ongoing monitoring.'}"
+Concerta,Mexico,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Concerta is regulated under the controlled substances laws due to its active ingredient, methylphenidate, which is classified as a Schedule II drug.'}"
+Concerta,Netherlands,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""You can only buy prescription drugs at a pharmacy with a doctor's prescription."", 'regulations': 'Medicines falling under the Opium Act require a certificate for travel; over-the-counter drugs vary in sale locations depending on their class.'}"
+Concerta,New Zealand,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid special authority required for substitution between brands', 'regulations': 'Classified as a prescription medicine under the Medicines Act 1981.'}"
+Concerta,Norway,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'blue prescription or h-prescription', 'regulations': 'Reimbursement is only available if an equivalent product is available in Norway.'}"
+Concerta,Poland,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Consultation with a doctor and obtaining a prescription is necessary.', 'regulations': 'Bringing Concerta into Poland requires compliance with specific regulations, including filling out required documentation.'}"
+Concerta,Portugal,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Subject to the updated 1993 decree-law for narcotic drugs and psychotropic substances; must comply with EU regulations for e-prescriptions.'}"
+Concerta,Slovak Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Doctor's prescription required"", 'regulations': 'Subject to national medicinal product laws and regulations, including warnings for pediatric use.'}"
+Concerta,Slovenia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A physician may prescribe any medicament approved for circulation in Slovenia, listed in the positive or intermediate list of the ZZZS, or non-covered medicaments with special prescription.', 'regulations': 'Regulated by the Medicinal Products Act and related implementing regulations; competence falls under the Agency for Medicinal Products and Medical Devices.'}"
+Concerta,Spain,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Special narcotics prescriptions required for prescribing doctors and pharmacists', 'regulations': 'Concerta is subject to specific regulations due to its classification as a controlled substance and is included in the list of medications facing shortages.'}"
+Concerta,Sweden,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Doctor's medical certificate or prescription, which can only be issued 30-40 days prior to the medication's use"", 'regulations': 'New recommendations on prescribing and monitoring of patients; specialist advice may be needed for switching between formulations.'}"
+Concerta,Switzerland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription is required, particularly when traveling or importing into Switzerland.', 'regulations': ""Methylphenidate-containing medicines are subject to strict regulations; they can only be imported for personal use in quantities for 30 days' treatment, and a certificate is required when traveling in Schengen countries.""}"
+Concerta,Turkey,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Carry a medical certificate confirming that the medicine has been prescribed for a medical condition', 'regulations': 'Drugs in Turkey are classed in six broad categories, and require differently-coded prescriptions. Possession of some common prescription and over-the-counter medicines is controlled.'}"
+Concerta,United Kingdom,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Requires a prescription from a licensed healthcare provider', 'regulations': 'Legal category POM (Prescription Only Medicine) in the UK; subject to supply availability issues and discussions among suppliers regarding challenges in the market.'}"
+Concerta,United States,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'The FDA has concerns about the bioequivalence of certain generic versions of Concerta, and ongoing monitoring and data submission requirements are in place.'}"
+Vyvanse,Australia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed medical practitioner is required to obtain Vyvanse in Australia.', 'regulations': 'Vyvanse is regulated by the Therapeutic Goods Administration (TGA) and is subject to ongoing monitoring for shortages and availability.'}"
+Vyvanse,Austria,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""A proper Austrian prescription is required; for Adderall, a special addictive drug's prescription is needed."", 'regulations': 'No additional certification is required for stays up to five days, but a letter from the doctor is recommended for addictive drugs.'}"
+Vyvanse,Belgium,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must have a prescription from a licensed doctor', 'regulations': 'Classified as a controlled substance in Belgium; prescription is required for legal purchase.'}"
+Vyvanse,Canada,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Subject to regulatory approvals and provincial regulations, requires a personal evaluation and consultation with a healthcare provider.'}"
+Vyvanse,Chile,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a physician is required', 'regulations': ""All amphetamine is illegal without a doctor's prescription. Medications must be in quantities appropriate to the patient's needs and time of stay, with the respective medical prescription.""}"
+Vyvanse,Colombia,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Prescription required; only available at licensed pharmacies for mental conditions.', 'regulations': 'Tightly controlled; bring all necessary paperwork; regular pharmacies do not carry it.'}"
+Vyvanse,Costa Rica,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a doctor or licensed healthcare professional is required.', 'regulations': 'Pharmacies are easily accessible, and you should have a prescription or a written document for personal use medications when entering the country.'}"
+Vyvanse,Czech Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Proof of diagnosis, visit to a Czech psychiatrist, and insurance', 'regulations': 'Controlled substance, prescription required to obtain.'}"
+Vyvanse,Denmark,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'You need a prescription from a local doctor after a psychiatric evaluation.', 'regulations': 'You can import medicines for personal use, but they must not be prescription-only in the country of purchase.'}"
+Vyvanse,Estonia,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'Prescription from a licensed medical practitioner', 'regulations': 'Special procedure required to obtain; cannot be sent by post; possible need for a permit or Schengen certificate.'}"
+Vyvanse,Finland,"{'legal_status': 'legal', 'availability': 'easily available', 'prescription_requirements': 'You can buy prescription medicines with either a paper prescription or European ePrescription, including foreign prescriptions.', 'regulations': 'Prescriptions must be in Finnish or Swedish; if in another language, inform Customs about its contents.'}"
+Vyvanse,France,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Thorough medical evaluation and diagnosis of conditions like ADHD or binge eating disorder; prescription needed from a qualified healthcare provider.', 'regulations': 'Class B drug; controlled substance with strict regulations to prevent misuse and abuse.'}"
+Vyvanse,Germany,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must be prescribed by a physician; prescriptions valid for 30 days only', 'regulations': 'Considered a controlled substance; having a photo of the prescription is advisable.'}"
+Vyvanse,Greece,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""A doctor's prescription is required, which should mention patient details, types of medicine, and condition treated."", 'regulations': 'Vyvanse is classified as a controlled substance in Greece; it is important to keep medication in its original prescription bottle and not to attempt to sell it.'}"
+Vyvanse,Hungary,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must be prescribed by a registered medical practitioner in Hungary after a consultation.', 'regulations': 'Vyvanse is classified as a controlled substance; therefore, it requires a prescription for legal use.'}"
+Vyvanse,Iceland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed medical practitioner is required.', 'regulations': 'Medicinal products are subject to a prescription unless an application for a change in legal status is submitted and approved by The Icelandic Medicines Agency.'}"
+Vyvanse,Ireland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'a valid prescription from an Irish doctor', 'regulations': 'controlled substance, requires new prescription every month'}"
+Vyvanse,Israel,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Diagnosis by a psychiatrist and a valid prescription', 'regulations': 'Available only in pharmacies, tightly regulated market.'}"
+Vyvanse,Italy,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from an Italian doctor may be required for some medications', 'regulations': 'Most medications available by prescription in other countries can be purchased over the counter, but some require a prescription from an Italian doctor.'}"
+Vyvanse,Japan,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed medical professional is required, and prior prescriptions in Japan are necessary for those under 18.', 'regulations': 'Strict regulations govern the importation of prescription medications like Vyvanse, and permission must be obtained to bring it into Japan.'}"
+Vyvanse,Korea,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Letter from doctor, notarized English translation of prescription, full-size scan of passport, and flight information submitted 10 business days before arrival.', 'regulations': 'Max of 3 months worth of medication can be brought in; additional supplies can be mailed unless they are narcotics.'}"
+Vyvanse,Latvia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription issued by a healthcare professional is required, along with a personal identification document (passport or ID card) for verification.', 'regulations': 'Patients can purchase unauthorized medicinal products with a prescription if authorized by the State Agency of Medicines; regulations include an export ban mechanism to ensure availability.'}"
+Vyvanse,Lithuania,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Application through a psychiatrist', 'regulations': 'Marketing authorization obtained; available as a brand and generic; subject to drug shortages.'}"
+Vyvanse,Luxembourg,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed medical practitioner is required.', 'regulations': 'Cross-border prescriptions are valid in all EU countries, but availability may vary.'}"
+Vyvanse,Mexico,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'German prescriptions are not valid for controlled drugs in Mexico; a local prescription is required.', 'regulations': 'Vyvanse is classified as a controlled substance in Mexico, requiring specific regulations and local prescriptions for purchase.'}"
+Vyvanse,Netherlands,"{'legal_status': 'legal', 'availability': 'easily available', 'prescription_requirements': 'proof of prescription/letter from doctor/medication passport', 'regulations': 'Not on the list of controlled drugs, no special documentation needed'}"
+Vyvanse,New Zealand,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'Requires a prescription from a New Zealand registered doctor', 'regulations': 'Vyvanse is a B2 Controlled Substance and requires approval from the Minister of Health and Cabinet for marketing.'}"
+Vyvanse,Norway,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must have a valid prescription from a licensed Norwegian doctor', 'regulations': 'Considered a controlled substance, cannot be purchased from abroad even with a prescription from a Norwegian doctor.'}"
+Vyvanse,Poland,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'Requires a prescription from a doctor, but not available in pharmacies', 'regulations': 'Not allowed to be brought into Poland; cross-border EU prescriptions are not an option for amphetamines.'}"
+Vyvanse,Portugal,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Doctor's note and psychiatric follow-up"", 'regulations': 'Controlled substance, requires thorough medical evaluation before prescription'}"
+Vyvanse,Slovak Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription is required to buy Vyvanse in Slovakia, and it must be obtained from a healthcare provider after a thorough medical evaluation.', 'regulations': 'Vyvanse is classified as a controlled substance and requires specific documentation when traveling, including original packaging and a letter from a doctor.'}"
+Vyvanse,Slovenia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription and proof from a doctor are required, especially for customs clearance.', 'regulations': 'Vyvanse is not registered in Europe; it is considered a controlled substance, and you can bring up to a 3-month supply with documentation.'}"
+Vyvanse,Spain,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription required from a licensed healthcare professional.', 'regulations': 'Class B controlled substance in the UK; classified as a prescription drug in Germany and assumed to be similar in other European countries.'}"
+Vyvanse,Sweden,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription is required from a licensed healthcare provider after a thorough medical evaluation.', 'regulations': 'It is illegal to buy, sell, or distribute Vyvanse without a prescription. Prescribed individuals must store it securely and not share it with others.'}"
+Vyvanse,Switzerland,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Covered by Swiss Mandatory Health Insurance (MHI); available at pharmacies.'}"
+Vyvanse,Turkey,"{'legal_status': 'illegal', 'availability': 'not available', 'prescription_requirements': 'Prescription required for legal alternatives (e.g., methylphenidate)', 'regulations': 'Amphetamines, including Vyvanse, are not permitted; only methylphenidate can be prescribed.'}"
+Vyvanse,United Kingdom,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must register with a doctor in the UK and obtain a local prescription', 'regulations': 'Class B drug in the UK; cannot use a foreign prescription'}"
+Vyvanse,United States,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Thorough medical evaluation and diagnosis of conditions like ADHD or binge eating disorder', 'regulations': 'Controlled substance in Schedule II category; subject to strict regulations due to potential for misuse and dependence.'}"
+Strattera,Australia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from an authorized health practitioner', 'regulations': 'Not recommended for patients with certain heart conditions; dosage must be determined by a physician.'}"
+Strattera,Austria,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription must include elements specified in Commission Implementing Directive 2012/52/EU. It generally loses validity twelve months after issue unless stated otherwise by the prescribing doctor.', 'regulations': ""Medicinal products can be prescribed from other EU Member States. Pharmacists can refuse to dispense if there are doubts about the prescription's authenticity or comprehensibility.""}"
+Strattera,Belgium,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required to obtain Strattera.', 'regulations': 'Strattera can only be marketed in Belgium if it is authorized or registered with the FAMHP.'}"
+Strattera,Canada,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'A prescription from a licensed healthcare provider is required.', 'regulations': 'Regular monitoring of heart rate and blood pressure is advised during treatment.'}"
+Strattera,Chile,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed health care provider is required to obtain Strattera.', 'regulations': 'Prescription medications can only be obtained with a valid prescription, and common medicines can be bought over the counter.'}"
+Strattera,Colombia,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'valid prescription from a local doctor', 'regulations': 'centralized jurisdiction over drugs at INVIMA'}"
+Strattera,Costa Rica,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a doctor or licensed healthcare professional is required.', 'regulations': 'Some medications available over the counter in other countries may require a prescription in Costa Rica.'}"
+Strattera,Czech Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': ""Subject to the EU's Opium Act and the Amendment to the Medicinal Products Act No. 378/2007 Coll.""}"
+Strattera,Denmark,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Original paper version of the prescription must be sent to the pharmacy by letter or shown in person; emailing prescriptions is not allowed.', 'regulations': 'The sale of prescription medicine is subject to extensive regulation to support health policy considerations such as equal and easy access to safe and effective medicine.'}"
+Strattera,Estonia,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a licensed medical practitioner (doctor or pharmacist)', 'regulations': 'Ordering medications online is legal; Finnish electronic prescriptions are valid in Estonia.'}"
+Strattera,Finland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription is required, which can be a paper prescription or European ePrescription.', 'regulations': 'Prescription medicines can be purchased in Finland with either a paper prescription or European ePrescription. Foreign prescriptions are accepted in Finnish pharmacies.'}"
+Strattera,France,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed medical practitioner is required.', 'regulations': 'Prescription drugs in France are regulated to ensure safety and efficacy, and online ordering of medications is legal.'}"
+Strattera,Germany,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'You require a prescription from a psychiatrist, along with diagnostic papers and a statement from your current doctor regarding dosage.', 'regulations': 'A prescription delivered by a doctor in one EU country is valid in all other EU countries.'}"
+Strattera,Greece,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescribed by a licensed medical professional', 'regulations': 'Must be obtained through a pharmacy with a valid prescription.'}"
+Strattera,Hungary,"{'legal_status': 'legal', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription accepted from Serbia; must pay in full as insurance is not accepted.', 'regulations': 'Prescription medications must be checked for legality upon arrival; original packaging and sealed blister packs are recommended.'}"
+Strattera,Iceland,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a licensed medical practitioner, such as a doctor or pharmacist', 'regulations': 'Medicinal products are subject to a prescription unless a change in legal status is approved by The Icelandic Medicines Agency.'}"
+Strattera,Ireland,"{'legal_status': 'Prescription-only', 'availability': 'Restricted', 'prescription_requirements': 'Product subject to medical prescription which may not be renewed (A)', 'regulations': 'Supply through pharmacies only'}"
+Strattera,Israel,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Dispensed with a doctor's prescription only"", 'regulations': 'Medications must be approved through a bureaucratic process; tightly regulated market; available only from pharmacies.'}"
+Strattera,Italy,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'A prescription from a licensed healthcare provider is required to obtain Strattera in Italy.', 'regulations': 'Eli Lilly Italia S.p.A. will cease to market Strattera hard capsules in Italy from 30 September 2023.'}"
+Strattera,Japan,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must consult with a Japanese practitioner and obtain proper documentation for importation.', 'regulations': 'Strict regulations on stimulants due to potential for abuse; may require an import certificate.'}"
+Strattera,Korea,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must have a valid prescription from a licensed physician in South Korea.', 'regulations': 'Importing Strattera for personal use is allowed with proper documentation, including prescriptions and a medical certificate.'}"
+Strattera,Latvia,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Must be prescribed by a GP; certificate required for substances in Schedules II and III.', 'regulations': 'Medicinal products for personal use containing substances from Schedules II and III need certification from the competent authority.'}"
+Strattera,Lithuania,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescribed using prescription forms', 'regulations': 'Dispensed in pharmacies following specific rules approved by the Minister of Health; reimbursed means of medical aids to inhabitants.'}"
+Strattera,Luxembourg,"{'legal_status': 'prescription-only', 'availability': 'not available', 'prescription_requirements': 'Prescription required from a licensed healthcare professional', 'regulations': 'Subject to specific regulations related to controlled substances and prescription medications.'}"
+Strattera,Mexico,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Prescription from a Mexican doctor', 'regulations': 'Certain medications require a prescription; many drugs available over the counter'}"
+Strattera,Netherlands,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Prescription from a doctor or specialist is required.', 'regulations': 'The Dutch Medicines Act prohibits the sale of unregistered pharmaceutical products; exceptions exist under specific circumstances.'}"
+Strattera,New Zealand,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': ""Available only with a doctor's prescription"", 'regulations': 'Defined as a prescription medicine under the Medicines Act 1981; funding restrictions removed as of 1 July 2019; brand changes effective from 1 December 2019.'}"
+Strattera,Norway,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Visit a doctor for a prescription', 'regulations': 'Guidance provided by Norwegian Regulation Forskrift om legemidler and EU Directive 2001/83/EC'}"
+Strattera,Poland,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Product subject to medical prescription which may not be renewed', 'regulations': ""Detailed information on the import of prescription drugs, narcotic drugs and psychotropic substances used in treatments and medical devices from the U.S. to Poland is available on the Chief Pharmaceutical Inspectorate's website.""}"
+Strattera,Portugal,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A prescription from a licensed healthcare provider is required.', 'regulations': 'Regulated by the Portuguese Medicines Agency (Infarmed) and can only be dispensed by licensed pharmacies.'}"
+Strattera,Slovak Republic,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Visit a doctor for a prescription', 'regulations': 'Legal ban on the re-export of medicines; availability affected by parallel exports'}"
+Strattera,Slovenia,"{'legal_status': 'Zdravilo z dovoljenjem za promet', 'availability': 'restricted', 'prescription_requirements': 'A physician may prescribe the medicament which is approved for circulation in Slovenia and is listed in the positive or intermediate list of the ZZZS', 'regulations': 'Medicaments may be prescribed by physicians and collected in pharmacies with a special prescription.'}"
+Strattera,Spain,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Possession and use are regulated, and cross-border prescriptions are allowed without a specific template.'}"
+Strattera,Sweden,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'Valid prescription from a licensed healthcare provider', 'regulations': 'Regulated by the Health data Register Act (1998:543) and associated regulation (2005:363), managed by the Swedish eHealth Agency.'}"
+Strattera,Switzerland,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Covered by Swiss Mandatory Health Insurance; requires a prescription from a licensed healthcare provider.', 'regulations': 'Monitored by the Swiss Agency for Therapeutic Products; classified as a controlled substance.'}"
+Strattera,Turkey,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription is required to obtain Strattera in Turkey.', 'regulations': 'Strattera is regulated as a prescription medication in Turkey, and ordering from websites that sell it without a prescription is a violation.'}"
+Strattera,United Kingdom,"{'legal_status': 'prescription-only', 'availability': 'restricted', 'prescription_requirements': 'A valid prescription from a licensed healthcare provider is required.', 'regulations': 'Strattera is classified as a controlled substance and should not be used in children under 6 years of age.'}"
+Strattera,United States,"{'legal_status': 'prescription-only', 'availability': 'easily available', 'prescription_requirements': 'Licensed healthcare professionals such as psychiatrists, primary care physicians, and psychiatric nurse practitioners can prescribe Strattera after evaluating symptoms and medical history.', 'regulations': 'Strattera is not a Schedule II controlled substance, allowing prescriptions for more than a 30-day supply, unlike stimulants which have strict federal regulations.'}"

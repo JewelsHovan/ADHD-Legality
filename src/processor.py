@@ -1,14 +1,16 @@
 from langchain_openai import ChatOpenAI
-from config.config import OPENROUTER_API_KEY
+from config.config import OPENROUTER_API_KEY, MODEL
+from .models import DrugInfo
 
 class DataProcessor:
     def __init__(self):
         self.client = ChatOpenAI(
-            model="google/gemini-flash-1.5-8b",
+            model=MODEL,
             openai_api_key=OPENROUTER_API_KEY,
             base_url="https://openrouter.ai/api/v1",
-
         )
+        # Create a structured output model
+        self.structured_model = self.client.with_structured_output(DrugInfo)
 
     async def extract_drug_info(self, search_results: dict) -> dict:
         """
@@ -17,30 +19,24 @@ class DataProcessor:
         if not search_results:
             return None
 
-        # Use 'content' field instead of 'text'
         context = "\n".join([result.get('content', '') for result in search_results["results"]])
-
-        print("Context:", context)
         
         prompt = f"""
         Based on the following information about {search_results['drug']} in {search_results['country']}, 
-        please extract and provide the following details in a structured format:
-        1. Legal Status (legal/illegal/prescription-only)
-        2. Availability (easily available/restricted/not available)
-        3. Prescription Requirements
-        4. Any specific regulations or restrictions
+        extract the drug's legal and regulatory information.
         
         Context:
         {context}
         """
 
         try:
-            response = await self.client.ainvoke(prompt)
+            # Get structured response
+            drug_info = await self.structured_model.ainvoke(prompt)
             
             return {
                 "drug": search_results["drug"],
                 "country": search_results["country"],
-                "analysis": response.content
+                "analysis": drug_info.model_dump()
             }
         except Exception as e:
             print(f"Error processing results: {str(e)}")
